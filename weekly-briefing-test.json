@@ -1,6 +1,6 @@
 {
   "test_id": "astrologia-saju-ponte-01",
-  "generated_at": "2026-11-13T01:24:20Z",
+  "generated_at": "2026-11-13T01:24:44Z",
   "week_start": "2026-11-16",
   "status": "test_only",
   "notice": "DADOS FICTÍCIOS — apenas teste de integração. Não interpretar como previsão real.",
@@ -24,7 +24,7 @@
     }
   },
   "run": {
-    "github_run_id": "local",
-    "trigger": "local"
+    "github_run_id": "43344702311",
+    "trigger": "workflow_dispatch"
   }
 }
